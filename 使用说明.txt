@@ -1,0 +1,13 @@
+1.批量运行函数是parse_Main.py 通过命令行解析参数运行python parse_Main.py　--help查看使用方法
+
+
+-s <start_index> 导出数据的开始游标　-n <total> 　导出数据条数 -t <tool_name> 使用工具名称 -p <process_num>　进程数
+
+
+2.单元测试函数　input_Main.py测试单个检测工具是否正常　调试用
+
+
+３．更改单个检测工具的爬虫可以到detect_tool文件夹里找到对应文件更改
+
+
+
